@@ -6,7 +6,7 @@ replicaCount: 1
 
 wasImage:
   repository: "ekchoi3912/cicdlab_1"
-  tag: v7
+  tag: v8
   pullPolicy: IfNotPresent
 
 service:
