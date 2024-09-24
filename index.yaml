@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  myapp:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-09-24T04:57:43.889908293Z"
+    description: test app
+    digest: e1867ffed91c499bcbf089dc8869abbd635ebfab6ceee9168f97c471304d5c4a
+    name: myapp
+    urls:
+    - https://ekchoi391201.github.io/myapp-pre-repo/myapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-24T04:57:43.889456292Z"
