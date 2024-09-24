@@ -6,13 +6,13 @@ replicaCount: 1
 
 wasImage:
   repository: "ekchoi3912/cicdlab_1"
-  tag: "v1"
+  tag: v6
   pullPolicy: IfNotPresent
 
 
 image:
   repository: nginx
-  tag: "latest"
+  tag: v6
   pullPolicy: IfNotPresent
 
 service:
