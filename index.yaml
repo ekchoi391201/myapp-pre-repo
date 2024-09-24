@@ -3,11 +3,11 @@ entries:
   myapp:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2024-09-24T07:09:11.020329179Z"
+    created: "2024-09-24T07:38:00.394580269Z"
     description: test app
-    digest: c99dc3b824677aea4b1fcb94cd690421275c8919e19b33ca4bf4ec0addf3f76c
+    digest: 21c6f03d579ae29e5010a16d60c2fe1c044dc79dd8442eda2809bae93fd715b5
     name: myapp
     urls:
     - https://ekchoi391201.github.io/myapp-pre-repo/myapp-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-24T07:09:11.019904265Z"
+generated: "2024-09-24T07:38:00.394182764Z"
