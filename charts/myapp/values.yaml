@@ -1,0 +1,28 @@
+
+# Default values for custom-application.
+# This is where you can set customizable values.
+
+replicaCount: 1
+
+image:
+  repository: nginx
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 80
+
+# ingress:
+#   enabled: true
+#   annotations: {}
+#   hosts:
+#     - host: www.frodo.kr
+#       paths: []
+#   tls: []
+
+wasImage:
+  repository: "ekchoi3912/cicdlab_13"
+  tag: "v1"
+  pullPolicy: IfNotPresent
+
